@@ -1,0 +1,2 @@
+(this.webpackJsonpKintsugi=this.webpackJsonpKintsugi||[]).push([[131],{3270:function(i){i.exports=JSON.parse('[{"id":"lp","name":"Standard LP"},{"id":"multi-lp","name":"Multiple LP"},{"id":"lending","name":"Lending"},{"id":"single","name":"Single Staking"},{"id":"single-lp","name":"Single LP"},{"id":"single-syrup","name":"Single Staking Syrup"},{"id":"maxi","name":"Beefy Maxi"}]')}}]);
+//# sourceMappingURL=131.a34cda6d.chunk.js.map

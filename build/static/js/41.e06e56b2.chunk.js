@@ -1,0 +1,2 @@
+(this.webpackJsonpKintsugi=this.webpackJsonpKintsugi||[]).push([[41],{1817:function(t,s,i){"use strict";i.r(s),s.default=i.p+"static/media/math-wallet.19212234.svg"}}]);
+//# sourceMappingURL=41.e06e56b2.chunk.js.map

@@ -25,6 +25,7 @@
     "axios": "^0.21.1",
     "bignumber.js": "^9.0.1",
     "blockchain-addressbook": "^0.37.46",
+    "clipboardy": "4.0.0",
     "clsx": "^1.1.1",
     "deficonnect": "^1.1.5",
     "escape-string-regexp": "^5.0.0",

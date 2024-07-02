@@ -1,0 +1,2 @@
+(this.webpackJsonpKintsugi=this.webpackJsonpKintsugi||[]).push([[42],{1818:function(s,t,i){"use strict";i.r(t),t.default=i.p+"static/media/safepal-wallet.cf402e1e.svg"}}]);
+//# sourceMappingURL=42.b921aafd.chunk.js.map

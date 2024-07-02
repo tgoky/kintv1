@@ -1,0 +1,2 @@
+(this.webpackJsonpKintsugi=this.webpackJsonpKintsugi||[]).push([[43],{3348:function(t,e,n){"use strict";n.r(e),n.d(e,"MinterApi",(function(){return a}));var s=n(209),r=n(7),c=n.n(r),i=n(11);class a{constructor(t,e){this.web3=t,this.chain=e}async fetchMinterReserves(t){if(t.canBurnReserves){const i=(e=t.contractAddress,n=this.web3,r=s,n?new n.eth.Contract(r,e,{from:n.eth.defaultAccount}):null),a=await(null===i||void 0===i?void 0:i.methods[t.reserveBalanceMethod]().call());return new c.a(a)}return new c.a(i.b);var e,n,r}}}}]);
+//# sourceMappingURL=43.24bd43c6.chunk.js.map
